@@ -30,7 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/tghouffEtK.gif' width=250><br>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
